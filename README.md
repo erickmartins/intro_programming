@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/erickmartins/intro_programming/master)
+
 A collection of IPython Notebooks for teaching Python.
 ---
 
